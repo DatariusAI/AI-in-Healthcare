@@ -1,0 +1,44 @@
+{
+  "arxiv_query": "(abs:clinical OR abs:healthcare OR abs:\"medical imaging\" OR abs:\"electronic health records\") AND (abs:\"machine learning\" OR abs:\"language model\" OR abs:\"deep learning\")",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "AI",
+      "queries": [
+        "medical llm",
+        "clinical llm",
+        "healthcare llm"
+      ]
+    },
+    {
+      "key": "ML",
+      "queries": [
+        "medical imaging deep learning",
+        "healthcare machine learning"
+      ]
+    },
+    {
+      "key": "DS",
+      "queries": [
+        "healthcare data science",
+        "clinical data science"
+      ]
+    },
+    {
+      "key": "DA",
+      "queries": [
+        "healthcare analytics",
+        "hospital analytics dashboard"
+      ]
+    },
+    {
+      "key": "DAN",
+      "queries": [
+        "healthcare data analysis",
+        "patient data analysis"
+      ]
+    }
+  ]
+}
