@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **clinical NLP, medical i
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-10 10:42 UTC_
+_Last refreshed: 2026-10-11 10:54 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -39,8 +39,8 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) | MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。 | Python | 5,857 | 2026-09-15 |
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII  | Python | 5,500 | 2026-10-10 |
+| [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) | MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。 | Python | 5,858 | 2026-09-15 |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII  | Python | 5,508 | 2026-10-11 |
 | [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | Repo for BenCao (original name: HuaTuo (华驼)), Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知 | Python | 4,997 | 2026-07-04 |
 | [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It | Python | 3,313 | 2026-10-08 |
 | [FreedomIntelligence/Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) | A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥 |  | 2,895 | 2026-08-04 |
@@ -72,7 +72,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [AlterLab-IEU/AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) | 242 evaluated academic Claude/agent skills across 18 research domains — bioinformatics, cheminformatics, data science, databases, clinical,  | Python | 74 | 2026-10-01 |
 | [DavieObi/Heart-Disease-Prediction](https://github.com/DavieObi/Heart-Disease-Prediction) | Heart disease is one of the leading causes of death worldwide, and early detection can greatly improve outcomes. This project applies machin | Jupyter Notebook | 55 | 2025-10-18 |
 | [qiskit-community/QBioCode](https://github.com/qiskit-community/QBioCode) | QBioCode is a suite of computational resources to support quantum applications in healthcare and life science data. | Jupyter Notebook | 48 | 2026-09-18 |
-| [Dreamerol/PLACEBO-EFFECT-ML](https://github.com/Dreamerol/PLACEBO-EFFECT-ML) | Placebo Effect is an Applied Machine Learning and Data Science project focused on clinical trial data analysis, statistical analysis, explor | Jupyter Notebook | 28 | 2026-10-06 |
+| [Dreamerol/PLACEBO-EFFECT-ML](https://github.com/Dreamerol/PLACEBO-EFFECT-ML) | Placebo Effect is an Applied Machine Learning and Data Science project focused on clinical trial data analysis, statistical analysis, explor | Jupyter Notebook | 27 | 2026-10-06 |
 <!-- DS:END -->
 
 ## 📊 Latest data analytics projects
@@ -82,7 +82,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [youcc/healthcare_analytics_engineer_handbook](https://github.com/youcc/healthcare_analytics_engineer_handbook) | Your essential guide to healthcare analytics: bridging clinical knowledge and data skills for transforming patient care. |  | 134 | 2026-04-04 |
-| [rapiddweller/datamimic](https://github.com/rapiddweller/datamimic) | Model-driven synthetic test data for CI/CD and analytics - deterministic, privacy-preserving, and domain-aware. Includes Python APIs, XML pi | Python | 116 | 2026-10-10 |
+| [rapiddweller/datamimic](https://github.com/rapiddweller/datamimic) | Model-driven synthetic test data for CI/CD and analytics - deterministic, privacy-preserving, and domain-aware. Includes Python APIs, XML pi | Python | 116 | 2026-10-11 |
 | [NHSDigital/rap-community-of-practice](https://github.com/NHSDigital/rap-community-of-practice) | The RAP community of practice includes all analysts and data scientists who are interested in adopting the working practices included in rep | HTML | 96 | 2026-08-21 |
 | [fedbiomed/fedbiomed](https://github.com/fedbiomed/fedbiomed) | A collaborative learning framework for empowering biomedical research | Python | 93 | 2026-10-08 |
 | [nusdbsystem/ARM-Net](https://github.com/nusdbsystem/ARM-Net) | A ready-to-use framework of the state-of-the-art models for structured (tabular) data learning with PyTorch. Applications include recommenda | Python | 80 | 2025-11-21 |
