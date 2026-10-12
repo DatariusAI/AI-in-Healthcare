@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **clinical NLP, medical i
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-11 10:54 UTC_
+_Last refreshed: 2026-10-12 04:50 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-10-09 | [Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integration for Clinical Prognosis](https://arxiv.org/abs/2610.13510) | Hamza Shafiq et al. |
+| 2026-10-09 | [One Thing Leads to Another: The Essentials of Time Series Causal Discovery](https://arxiv.org/abs/2610.13430) | Kurt Butler et al. |
+| 2026-10-09 | [Tensor-based Fusion of Multi-modal Data for Predicting Cancer Risk Levels](https://arxiv.org/abs/2610.13221) | Ali Anaissi et al. |
+| 2026-10-09 | [CliQ-RRG: Clinical-Knowledge Guided Disease-aware Visual-Textual Alignment for QA-Style Radiology Report Generation](https://arxiv.org/abs/2610.13059) | Chandravardhan Singh Raghaw et al. |
+| 2026-10-09 | [Hindsight Structured Advice Distillation: Steering Executor Agents with Advisors Trained on Their Failures and Task Characteristics](https://arxiv.org/abs/2610.13000) | O. Ozan Koyluoglu |
+| 2026-10-08 | [Bridging Human and Model Attention: Explainability Analysis of CNN, Mamba, and ViT Architectures with Gaze-Based Validation](https://arxiv.org/abs/2610.12703) | Marco Stefani et al. |
 | 2026-10-08 | [BioBigBird: A Sparse Attention Model for Long-Range Dependency Processing in Biomedical Text](https://arxiv.org/abs/2610.11430) | Roshan Balaji et al. |
 | 2026-10-08 | [PathLang: A Language-Centered Benchmark for Vision-Language Models in Computational Pathology](https://arxiv.org/abs/2610.11329) | Fanqi Cheng et al. |
-| 2026-10-08 | [Efficient Multi-Granularity Knowledge Transfer for Radiology Report Generation](https://arxiv.org/abs/2610.11303) | Xubin Zhong et al. |
-| 2026-10-08 | [How to post-train on a surrogate: Envelope sampling mitigates reward hacking](https://arxiv.org/abs/2610.11281) | Sanjit Dandapanthula et al. |
-| 2026-10-08 | [ActiveMedAgent: Cost-Aware Trajectory Learning for Multimodal Medical Diagnosis](https://arxiv.org/abs/2610.11140) | Weiwei Ma et al. |
-| 2026-10-08 | [Contrast Enhancement or Noise Reduction? On Improving Cervical Cancer Classification](https://arxiv.org/abs/2610.11086) | Ach Khozaimi et al. |
-| 2026-10-08 | [Clinician use of language models diverges from how the models are evaluated](https://arxiv.org/abs/2610.11069) | Krithik Vishwanath et al. |
-| 2026-10-07 | [Budgeted Multi-Source Counterfactual Annotation for Off-Policy Evaluation](https://arxiv.org/abs/2610.10974) | Biao Xiang et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -39,8 +39,8 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) | MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。 | Python | 5,858 | 2026-09-15 |
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII  | Python | 5,508 | 2026-10-11 |
+| [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) | MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。 | Python | 5,859 | 2026-09-15 |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII  | Python | 5,581 | 2026-10-11 |
 | [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | Repo for BenCao (original name: HuaTuo (华驼)), Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知 | Python | 4,997 | 2026-07-04 |
 | [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It | Python | 3,313 | 2026-10-08 |
 | [FreedomIntelligence/Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) | A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥 |  | 2,895 | 2026-08-04 |
