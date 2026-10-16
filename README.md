@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **clinical NLP, medical i
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-15 04:35 UTC_
+_Last refreshed: 2026-10-16 04:35 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-10-14 | [Continual pretraining Prostate MRI ViT Encoder for task alignment](https://arxiv.org/abs/2610.20217) | Bilal A. Sidiqi et al. |
-| 2026-10-14 | [Multimodal Medical Image Parsing with Task-Specific Low-Rank Adapters](https://arxiv.org/abs/2610.19901) | Taha Sabir et al. |
-| 2026-10-14 | [DeepPV-MRF: End-to-End Partial-Volume Fraction Estimation from MR Fingerprinting Time Series](https://arxiv.org/abs/2610.19894) | Tianyi Ding et al. |
-| 2026-10-14 | [AutoPoly-HE: Autonomous Design of Polynomial Activations for Privacy-Preserving Encrypted Inference](https://arxiv.org/abs/2610.19325) | Zeinab Elkhatib et al. |
-| 2026-10-13 | [Beyond ICD Codes: Semantic IDs for Generative Medical Coding](https://arxiv.org/abs/2610.19301) | Yihang Cheng et al. |
-| 2026-10-13 | [Verification Turns Capability Gaps into Routing Decisions: Small Language Models for Clinical Documentation](https://arxiv.org/abs/2610.19169) | Nina Fatehi et al. |
-| 2026-10-13 | [Brain Age Gap Progression in Individuals at Risk for Neurodegeneration](https://arxiv.org/abs/2610.18794) | Jason Scheffel et al. |
-| 2026-10-13 | [Physics-Informed Deep Learning in Oncology](https://arxiv.org/abs/2610.18682) | Scindhiya Laxmi et al. |
+| 2026-10-15 | [AI Consilium: a Benchmark of LLM Clinical Multidisciplinary Second Opinions](https://arxiv.org/abs/2610.22298) | Alexey A. Bokov et al. |
+| 2026-10-15 | [FPG-Seg: Annotation-free Retinal Vessel Topology Segmentation](https://arxiv.org/abs/2610.22259) | James Willoughby et al. |
+| 2026-10-15 | [Documenting Trofinetide Treatment Phenotypes in Rett Syndrome with a Dual-LLM Consensus Pipeline](https://arxiv.org/abs/2610.22062) | Daniel Palacios et al. |
+| 2026-10-15 | [MedPAO-VL: Interpretable and Protocol-Compliant Agent for Structured Radiology Report Generation](https://arxiv.org/abs/2610.21794) | Shrish Shrinath Vaidya et al. |
+| 2026-10-15 | [Tool-Augmented Large Language Models for Reliable Medical Calculation from Patient Notes](https://arxiv.org/abs/2610.21477) | Yang Zhong et al. |
+| 2026-10-15 | [Ontology Refinement with Embeddings and LLMs: A Case Study on CASTON](https://arxiv.org/abs/2610.21466) | Hui Yang et al. |
+| 2026-10-15 | [Incentivizing Tool-Use Reinforcement Learning for Post-Arrival Emergency Care Prediction](https://arxiv.org/abs/2610.21449) | Pengfei Hu et al. |
+| 2026-10-15 | [When do quantum views help? Complementary classical-quantum representations in multi-view fusion](https://arxiv.org/abs/2610.21395) | Azadeh Alavi et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -39,10 +39,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) | MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。 | Python | 5,862 | 2026-09-15 |
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII  | Python | 5,687 | 2026-10-14 |
-| [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | Repo for BenCao (original name: HuaTuo (华驼)), Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知 | Python | 5,000 | 2026-07-04 |
-| [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It | Python | 3,317 | 2026-10-08 |
+| [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) | MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。 | Python | 5,864 | 2026-09-15 |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII  | Python | 5,693 | 2026-10-14 |
+| [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | Repo for BenCao (original name: HuaTuo (华驼)), Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知 | Python | 5,001 | 2026-07-04 |
+| [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It | Python | 3,318 | 2026-10-08 |
 | [FreedomIntelligence/Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) | A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥 |  | 2,897 | 2026-08-04 |
 | [ZJU4HealthCare/Foundations-of-Medical-LLMs](https://github.com/ZJU4HealthCare/Foundations-of-Medical-LLMs) | Foundations of Medical Large Language Model Learning |  | 2,129 | 2026-05-27 |
 <!-- AI:END -->
@@ -53,7 +53,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- ML:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [hazratali/awesome-ai-summerschool](https://github.com/hazratali/awesome-ai-summerschool) | An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare |  | 745 | 2026-10-01 |
+| [hazratali/awesome-ai-summerschool](https://github.com/hazratali/awesome-ai-summerschool) | An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare |  | 746 | 2026-10-15 |
 | [aaryansamanta/advanced-ai-curriculum](https://github.com/aaryansamanta/advanced-ai-curriculum) | Portfolio of capstone projects from AI & Technology, Data Science, AI Internship, Machine Learning and AI Humanities Honors. CNN pneumonia d | Jupyter Notebook | 333 | 2026-09-20 |
 | [edaaydinea/AI-Projects-for-Healthcare](https://github.com/edaaydinea/AI-Projects-for-Healthcare) | This repository is included artificial intelligence, machine learning, data science, computer vision projects related to healthcare. | Jupyter Notebook | 275 | 2026-04-05 |
 | [ANTsX/ANTsPyNet](https://github.com/ANTsX/ANTsPyNet) | Pre-trained models and utilities for deep learning on medical images in Python (Keras/TensorFlow) | Python | 262 | 2026-10-14 |
@@ -69,7 +69,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 |---|---|---|---|---|
 | [aaryansamanta/advanced-ai-curriculum](https://github.com/aaryansamanta/advanced-ai-curriculum) | Portfolio of capstone projects from AI & Technology, Data Science, AI Internship, Machine Learning and AI Humanities Honors. CNN pneumonia d | Jupyter Notebook | 333 | 2026-09-20 |
 | [edaaydinea/AI-Projects-for-Healthcare](https://github.com/edaaydinea/AI-Projects-for-Healthcare) | This repository is included artificial intelligence, machine learning, data science, computer vision projects related to healthcare. | Jupyter Notebook | 275 | 2026-04-05 |
-| [AlterLab-IEU/AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) | 242 evaluated academic Claude/agent skills across 18 research domains — bioinformatics, cheminformatics, data science, databases, clinical,  | Python | 74 | 2026-10-14 |
+| [AlterLab-IEU/AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) | 242 evaluated academic Claude/agent skills across 18 research domains — bioinformatics, cheminformatics, data science, databases, clinical,  | Python | 75 | 2026-10-14 |
 | [DavieObi/Heart-Disease-Prediction](https://github.com/DavieObi/Heart-Disease-Prediction) | Heart disease is one of the leading causes of death worldwide, and early detection can greatly improve outcomes. This project applies machin | Jupyter Notebook | 55 | 2025-10-18 |
 | [qiskit-community/QBioCode](https://github.com/qiskit-community/QBioCode) | QBioCode is a suite of computational resources to support quantum applications in healthcare and life science data. | Jupyter Notebook | 48 | 2026-09-18 |
 | [Dreamerol/PLACEBO-EFFECT-ML](https://github.com/Dreamerol/PLACEBO-EFFECT-ML) | Placebo Effect is an Applied Machine Learning and Data Science project focused on clinical trial data analysis, statistical analysis, explor | Jupyter Notebook | 27 | 2026-10-06 |
@@ -97,7 +97,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 |---|---|---|---|---|
 | [SimVascular/SimVascular](https://github.com/SimVascular/SimVascular) | A comprehensive opensource software package providing a complete pipeline from medical image data segmentation to patient specific blood flo | C++ | 351 | 2026-06-10 |
 | [rexrodeo/american-healthcare-conundrum](https://github.com/rexrodeo/american-healthcare-conundrum) | Investigative data journalism: quantifying fixable waste in US healthcare, one issue at a time. Open-source analysis of CMS, OECD, and feder | Python | 230 | 2026-07-06 |
-| [junioralive/Indian-Medicine-Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) | A curated dataset of Indian medicines, organized by brand. Essential for healthcare research and pharmaceutical analysis. |  | 88 | 2026-06-27 |
+| [junioralive/Indian-Medicine-Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) | A curated dataset of Indian medicines, organized by brand. Essential for healthcare research and pharmaceutical analysis. |  | 89 | 2026-06-27 |
 | [mirzayasirabdullahbaig07/Top-MachineLearning-DeepLearning-Projects](https://github.com/mirzayasirabdullahbaig07/Top-MachineLearning-DeepLearning-Projects) | A curated collection of 10+ end-to-end AI/ML/DL projects showcasing real-world problem-solving, data analysis, and model deployment using St |  | 51 | 2026-05-31 |
 | [spsanderson/healthyR](https://github.com/spsanderson/healthyR) | Hospital Data Analysis Workflow Tools | R | 33 | 2025-12-31 |
 | [ldingemans/PhenoScore](https://github.com/ldingemans/PhenoScore) | PhenoScore is an open source, artificial intelligence-based phenomics framework that combines facial recognition technology with Human Pheno | Jupyter Notebook | 25 | 2026-08-24 |
