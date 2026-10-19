@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **clinical NLP, medical i
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-18 04:35 UTC_
+_Last refreshed: 2026-10-19 04:39 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-10-15 | [AI Consilium: a Benchmark of LLM Clinical Multidisciplinary Second Opinions](https://arxiv.org/abs/2610.22298) | Alexey A. Bokov et al. |
-| 2026-10-15 | [FPG-Seg: Annotation-free Retinal Vessel Topology Segmentation](https://arxiv.org/abs/2610.22259) | James Willoughby et al. |
-| 2026-10-15 | [Documenting Trofinetide Treatment Phenotypes in Rett Syndrome with a Dual-LLM Consensus Pipeline](https://arxiv.org/abs/2610.22062) | Daniel Palacios et al. |
-| 2026-10-15 | [MedPAO-VL: Interpretable and Protocol-Compliant Agent for Structured Radiology Report Generation](https://arxiv.org/abs/2610.21794) | Shrish Shrinath Vaidya et al. |
-| 2026-10-15 | [Tool-Augmented Large Language Models for Reliable Medical Calculation from Patient Notes](https://arxiv.org/abs/2610.21477) | Yang Zhong et al. |
-| 2026-10-15 | [Ontology Refinement with Embeddings and LLMs: A Case Study on CASTON](https://arxiv.org/abs/2610.21466) | Hui Yang et al. |
-| 2026-10-15 | [Incentivizing Tool-Use Reinforcement Learning for Post-Arrival Emergency Care Prediction](https://arxiv.org/abs/2610.21449) | Pengfei Hu et al. |
-| 2026-10-15 | [When do quantum views help? Complementary classical-quantum representations in multi-view fusion](https://arxiv.org/abs/2610.21395) | Azadeh Alavi et al. |
+| 2026-10-16 | [A Large Language Model LLM Approach to COVID-19 Fake News Detection](https://arxiv.org/abs/2610.23800) | Muhammad Arif et al. |
+| 2026-10-16 | [The Collection of a Real-World, Large-Scale Dataset for Automated Skill Evaluation in Central Line Dressing Change](https://arxiv.org/abs/2610.23789) | Ummey Tanin et al. |
+| 2026-10-16 | [On the possibilities and limitations of LLM-based multi-agent systems for multi-criteria decision-making in healthcare operations management](https://arxiv.org/abs/2610.23673) | Marco Boresta et al. |
+| 2026-10-16 | [Enhancing RAG-based Medical VQA with Gated Multimodal Representations](https://arxiv.org/abs/2610.23588) | Daniela Jimenez-Pano et al. |
+| 2026-10-16 | [When Evidence Vanishes: Distilling Visual-Evidence Dependency in Medical Vision-Language Models](https://arxiv.org/abs/2610.23469) | Qizhen Lan et al. |
+| 2026-10-16 | [The Loss or the Architecture? What Matters in Survival Analysis with Competing Risks](https://arxiv.org/abs/2610.23322) | Julie Alberge et al. |
+| 2026-10-16 | [Self-Reflective Chain-of-Thought (SRCoT): Evidence-Based Text Generation via a Closed-Loop Retrieve--Reflect--Revise Pipeline on Edge LLMs](https://arxiv.org/abs/2610.23311) | Fabian Broszio et al. |
+| 2026-10-16 | [Data-Efficient Classifier Pretraining Through Diffusion Models](https://arxiv.org/abs/2610.23289) | Qinyu Li et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -58,7 +58,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [edaaydinea/AI-Projects-for-Healthcare](https://github.com/edaaydinea/AI-Projects-for-Healthcare) | This repository is included artificial intelligence, machine learning, data science, computer vision projects related to healthcare. | Jupyter Notebook | 275 | 2026-04-05 |
 | [ANTsX/ANTsPyNet](https://github.com/ANTsX/ANTsPyNet) | Pre-trained models and utilities for deep learning on medical images in Python (Keras/TensorFlow) | Python | 263 | 2026-10-14 |
 | [WenjieDu/TSDB](https://github.com/WenjieDu/TSDB) | a Python toolbox loads 173 public time series datasets for machine/deep learning with a single line of code. Datasets from multiple domains  | Python | 240 | 2026-09-17 |
-| [evelyyyyynnnnn/2.0-Healthcare-Ai-Systems](https://github.com/evelyyyyynnnnn/2.0-Healthcare-Ai-Systems) | Machine learning and decision intelligence models designed to improve healthcare safety through clinical risk prediction and medical interac | Python | 225 | 2026-10-10 |
+| [evelyyyyynnnnn/2.0-Healthcare-Ai-Systems](https://github.com/evelyyyyynnnnn/2.0-Healthcare-Ai-Systems) | Machine learning and decision intelligence models designed to improve healthcare safety through clinical risk prediction and medical interac | Python | 225 | 2026-10-18 |
 <!-- ML:END -->
 
 ## 🔬 Latest data science projects
@@ -82,7 +82,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [youcc/healthcare_analytics_engineer_handbook](https://github.com/youcc/healthcare_analytics_engineer_handbook) | Your essential guide to healthcare analytics: bridging clinical knowledge and data skills for transforming patient care. |  | 136 | 2026-04-04 |
-| [rapiddweller/datamimic](https://github.com/rapiddweller/datamimic) | Model-driven synthetic test data for CI/CD and analytics - deterministic, privacy-preserving, and domain-aware. Includes Python APIs, XML pi | Python | 116 | 2026-10-15 |
+| [rapiddweller/datamimic](https://github.com/rapiddweller/datamimic) | Model-driven synthetic test data for CI/CD and analytics - deterministic, privacy-preserving, and domain-aware. Includes Python APIs, XML pi | Python | 116 | 2026-10-19 |
 | [NHSDigital/rap-community-of-practice](https://github.com/NHSDigital/rap-community-of-practice) | The RAP community of practice includes all analysts and data scientists who are interested in adopting the working practices included in rep | HTML | 96 | 2026-08-21 |
 | [fedbiomed/fedbiomed](https://github.com/fedbiomed/fedbiomed) | A collaborative learning framework for empowering biomedical research | Python | 93 | 2026-10-08 |
 | [nusdbsystem/ARM-Net](https://github.com/nusdbsystem/ARM-Net) | A ready-to-use framework of the state-of-the-art models for structured (tabular) data learning with PyTorch. Applications include recommenda | Python | 80 | 2025-11-21 |
