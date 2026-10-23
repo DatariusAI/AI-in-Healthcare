@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **clinical NLP, medical i
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-22 04:36 UTC_
+_Last refreshed: 2026-10-23 04:37 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-10-21 | [ViBMR: A Large-Scale Multi-Sequence Brain MRI Dataset and Comprehensive Evaluation for Vietnamese Radiology Report Generation](https://arxiv.org/abs/2610.29905) | Dai Lam Le et al. |
-| 2026-10-21 | [Overview of CHIP 2026 Shared Task 1: Patient-Specific Phenotype Concept Recognition in Full-Text Biomedical Literature](https://arxiv.org/abs/2610.29606) | Xuanlyu Zhu et al. |
-| 2026-10-21 | [Are Joint-Embedding Predictive Objectives Effective for Longitudinal EHRs?](https://arxiv.org/abs/2610.29528) | Ashvin Gupta et al. |
-| 2026-10-21 | [Reading the Mask: Descriptor-Grounded BI-RADS Rationale Generation for Breast MRI Segmentation](https://arxiv.org/abs/2610.29358) | Hrishikesh Singh et al. |
-| 2026-10-21 | [A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform](https://arxiv.org/abs/2610.29312) | Yongjin Yi et al. |
-| 2026-10-21 | [Same Probabilities, Different Advice: Gain-Loss Framing Effects in High-Stakes LLM Decision Support](https://arxiv.org/abs/2610.29294) | Yuyao Zhang et al. |
-| 2026-10-21 | [Estimating Performance for Safe Deployment of Machine Learning Models](https://arxiv.org/abs/2610.29262) | Zeju Li et al. |
-| 2026-10-21 | [DGCM-SSFA: Dual-Granularity Cross-Modulation and Sparse Strip Frequency Attention for Efficient 3T-to-7T MRI Synthesis](https://arxiv.org/abs/2610.29141) | Zhichun Fan et al. |
+| 2026-10-22 | [Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination](https://arxiv.org/abs/2610.31586) | Miguel Fernandez-de-Retana et al. |
+| 2026-10-22 | [From Structured Records to Patient Narratives: Preserving Clinical Alignment in LLM-Generated Health Summaries](https://arxiv.org/abs/2610.31467) | Bayram Ayadi et al. |
+| 2026-10-22 | [Deep Learning for Random Objects in Metric Spaces: Beyond Manifold Assumptions](https://arxiv.org/abs/2610.31328) | Marcos Matabuena et al. |
+| 2026-10-22 | [Consistent but Biased: Chair Personas Trade Noise for Bias in Multi-Agent Clinical Decisions](https://arxiv.org/abs/2610.31325) | Yitong Bai et al. |
+| 2026-10-22 | [The Value of System 1 Models in Medicine](https://arxiv.org/abs/2610.31315) | Xiufeng Yang et al. |
+| 2026-10-22 | [A Visual Grounding Benchmark for Retinal OCT with Multimodal Large Language Models](https://arxiv.org/abs/2610.31205) | Ronald Fecso et al. |
+| 2026-10-22 | [Diagnostic Loss: Asymmetric Supervision for Radiology Report Generation](https://arxiv.org/abs/2610.30980) | Ignacy Kolton et al. |
+| 2026-10-22 | [RetiJev: Fast and Source-Grounded Ophthalmic Decision Models](https://arxiv.org/abs/2610.30947) | Bo Liu et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -39,10 +39,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) | MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。 | Python | 5,867 | 2026-09-15 |
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII  | Python | 5,699 | 2026-10-21 |
-| [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | Repo for BenCao (original name: HuaTuo (华驼)), Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知 | Python | 5,000 | 2026-07-04 |
-| [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It | Python | 3,325 | 2026-10-08 |
+| [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) | MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。 | Python | 5,866 | 2026-09-15 |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII  | Python | 5,700 | 2026-10-21 |
+| [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | Repo for BenCao (original name: HuaTuo (华驼)), Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知 | Python | 5,001 | 2026-07-04 |
+| [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It | Python | 3,330 | 2026-10-08 |
 | [FreedomIntelligence/Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) | A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥 |  | 2,898 | 2026-08-04 |
 | [ZJU4HealthCare/Foundations-of-Medical-LLMs](https://github.com/ZJU4HealthCare/Foundations-of-Medical-LLMs) | Foundations of Medical Large Language Model Learning |  | 2,129 | 2026-05-27 |
 <!-- AI:END -->
@@ -53,7 +53,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- ML:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [hazratali/awesome-ai-summerschool](https://github.com/hazratali/awesome-ai-summerschool) | An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare |  | 746 | 2026-10-20 |
+| [hazratali/awesome-ai-summerschool](https://github.com/hazratali/awesome-ai-summerschool) | An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare |  | 748 | 2026-10-20 |
 | [aaryansamanta/advanced-ai-curriculum](https://github.com/aaryansamanta/advanced-ai-curriculum) | Portfolio of capstone projects from AI & Technology, Data Science, AI Internship, Machine Learning and AI Humanities Honors. CNN pneumonia d | Jupyter Notebook | 331 | 2026-09-20 |
 | [edaaydinea/AI-Projects-for-Healthcare](https://github.com/edaaydinea/AI-Projects-for-Healthcare) | This repository is included artificial intelligence, machine learning, data science, computer vision projects related to healthcare. | Jupyter Notebook | 275 | 2026-04-05 |
 | [ANTsX/ANTsPyNet](https://github.com/ANTsX/ANTsPyNet) | Pre-trained models and utilities for deep learning on medical images in Python (Keras/TensorFlow) | Python | 263 | 2026-10-14 |
