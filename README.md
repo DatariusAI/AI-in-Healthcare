@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **clinical NLP, medical i
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-20 04:28 UTC_
+_Last refreshed: 2026-11-21 04:27 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -40,9 +40,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) | MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。 | Python | 5,901 | 2026-09-15 |
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII  | Python | 5,828 | 2026-11-19 |
-| [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | Repo for BenCao (original name: HuaTuo (华驼)), Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知 | Python | 4,999 | 2026-07-04 |
-| [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It | Python | 3,353 | 2026-10-08 |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII  | Python | 5,832 | 2026-11-20 |
+| [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | Repo for BenCao (original name: HuaTuo (华驼)), Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知 | Python | 4,998 | 2026-07-04 |
+| [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It | Python | 3,354 | 2026-10-08 |
 | [FreedomIntelligence/Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) | A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥 |  | 2,905 | 2026-08-04 |
 | [ZJU4HealthCare/Foundations-of-Medical-LLMs](https://github.com/ZJU4HealthCare/Foundations-of-Medical-LLMs) | Foundations of Medical Large Language Model Learning |  | 2,133 | 2026-05-27 |
 <!-- AI:END -->
@@ -84,9 +84,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [youcc/healthcare_analytics_engineer_handbook](https://github.com/youcc/healthcare_analytics_engineer_handbook) | Your essential guide to healthcare analytics: bridging clinical knowledge and data skills for transforming patient care. |  | 136 | 2026-10-29 |
 | [rapiddweller/datamimic](https://github.com/rapiddweller/datamimic) | Model-driven synthetic test data for CI/CD and analytics - deterministic, privacy-preserving, and domain-aware. Includes Python APIs, XML pi | Python | 117 | 2026-11-19 |
 | [NHSDigital/rap-community-of-practice](https://github.com/NHSDigital/rap-community-of-practice) | The RAP community of practice includes all analysts and data scientists who are interested in adopting the working practices included in rep | HTML | 96 | 2026-08-21 |
-| [fedbiomed/fedbiomed](https://github.com/fedbiomed/fedbiomed) | A collaborative learning framework for empowering biomedical research | Python | 92 | 2026-11-19 |
-| [nusdbsystem/ARM-Net](https://github.com/nusdbsystem/ARM-Net) | A ready-to-use framework of the state-of-the-art models for structured (tabular) data learning with PyTorch. Applications include recommenda | Python | 80 | 2025-11-21 |
+| [fedbiomed/fedbiomed](https://github.com/fedbiomed/fedbiomed) | A collaborative learning framework for empowering biomedical research | Python | 92 | 2026-11-20 |
 | [awslabs/hcls-agent-skills](https://github.com/awslabs/hcls-agent-skills) | Open-source healthcare AI agent skills and life sciences agent skills. 43 skills for medical coding, risk adjustment, claims analytics, qual | Python | 78 | 2026-11-11 |
+| [HeliosSoftware/hfs](https://github.com/HeliosSoftware/hfs) | The Helios FHIR Server is an implementation of the HL7® FHIR® standard, built in Rust for high performance and optimized for clinical analyt | Rust | 61 | 2026-11-21 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
